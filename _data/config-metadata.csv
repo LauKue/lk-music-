@@ -2,8 +2,15 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+alt-text,Alt-text
 description,Description,
 subject,Subjects,true
+genre,Genre
+content,Content
+performers,Performers
+setdesigner,Set Designer
+companion,Companion
+language,Language
 location,Location
 latitude,Latitude
 longitude,Longitude
